@@ -10,7 +10,9 @@ import org.fusesource.jansi.AnsiConsole;
  * of J-ANSI lib.
  *
  * To be run from a command line.
- * 
+ *
+ * es: java -cp ./target/pcd-lab-01-1.0-SNAPSHOT.jar pcd.lab01.ex01.TestAsyncScreen
+ *
  */
 public class TestScreen {
 
