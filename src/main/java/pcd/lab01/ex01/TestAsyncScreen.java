@@ -13,7 +13,7 @@ public class TestAsyncScreen {
         screen.clear();
 
         screen.writeStringAt(0, 10, Ansi.Color.RED, sentence);
-
+        //TODO
 //        var wordList = getWordsPos(sentence);
 
 //        for (var wp: wordList) {
